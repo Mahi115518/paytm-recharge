@@ -1,0 +1,4 @@
+# Created at 2021-10-24T18:35:33.965
+Boot Manifest-JAR contains absolute paths in classpath 'G:\My Drive\DevOps softwares\maven\new-project-paytm\recharge\recharge\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
